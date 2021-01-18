@@ -1,4 +1,4 @@
-# README -- Code The Dream Backend 2 Week 2b
+# README -- Code The Dream Backend Periodical
 
 This repository contains the framework for the application called "periodical" in the following Treehouse video for Active Record Associations in Rails: https://teamtreehouse.com/library/has-many-through-associations .  You should create a git branch called periodical and make your changes there.
 When you are done with the application, because you have completed all the changes from the Treehouse videos, you can git add, commit, and push your changes and 
